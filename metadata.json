@@ -1,0 +1,6 @@
+{
+  "name": "Absensi HAMKA",
+  "description": "Portal Kehadiran Digital HAMKA dengan alur presensi kamera langsung, deteksi lokasi GPS otomatis, autentikasi akun, riwayat absensi harian, dan struktur kode PHP & phpMyAdmin.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
